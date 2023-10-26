@@ -1,0 +1,27 @@
+_repo: Ryosto-b-Viisinaytoksinen-naytelma_71938
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wuori, Martti
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+    wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+description: ''
+gutenberg_issued: '2023-10-23'
+identifiers:
+  gutenberg: '71938'
+language: fi
+pgterms:marc905: 20210131112323wuori
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bYrjö Weilin & Kumpp. Oy, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ryöstö : $b Viisinäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/71938
