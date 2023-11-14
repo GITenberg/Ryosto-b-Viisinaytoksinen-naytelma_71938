@@ -1,5 +1,8 @@
 _repo: Ryosto-b-Viisinaytoksinen-naytelma_71938
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wuori, Martti
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26501
     wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71938#Ryosto-b-Viisinaytoksinen-naytelma
 gutenberg_issued: '2023-10-23'
 identifiers:
   gutenberg: '71938'
